@@ -11,3 +11,42 @@ Official Talking Electronics Magazines featuring the TEC-1 and Microcomp Compute
 - Issue 15  15/05/1989  20,000 copies printed
 
 *Source: Each issue, see the editorial page, top left corner.
+
+
+## Article List
+
+A list of what hardware, software, mods etc. was published in each magazine. Handy if you're looking for a specific article or note.
+
+### Issue 10
+- TEC-1 Computer
+
+### Issue 11
+- 8x8 Display
+- Relay Driver Board
+
+### Issue 12
+- TEC-1A
+- RAM Stack
+- Printer/Plotter
+
+### Issue 13
+- Computer Power Supply
+- EPROM Programmer
+- TEC-1B
+- MON 2
+- SHIFT Key
+- Microcomp-1 part 1
+
+### Issue 14
+- Crystal Oscillator
+- Input/Output Module
+- Updated TEC-1B Circuit Diagram
+- MON Select Switch
+- Microcomp-1 part 2
+
+### Issue 15
+- Speech Module
+- EPROM Burner re-visited
+- DAT Board
+- JMON
+- Magic Square game
