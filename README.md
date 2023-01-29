@@ -4,7 +4,7 @@ Official Talking Electronics Magazines featuring the TEC-1 and Microcomp Compute
 
 ## Publication dates*
 - Issue 10  March 1983 (Approximate)
-- Issue 11  ?
+- Issue 11  Late 1983 to Early 1984 (Approximate)
 - Issue 12  30/08/1984  16,000 copies printed
 - Issue 13  20/05/1985  20,000 copies printed
 - Issue 14  01/04/1986  20,000 copies printed
