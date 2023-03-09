@@ -31,6 +31,7 @@ A list of what hardware, software, mods etc. was published in each magazine. Han
 
 ### Issue 13
 - Computer Power Supply
+- Non-Volatile RAM
 - EPROM Programmer
 - TEC-1B
 - MON 2
